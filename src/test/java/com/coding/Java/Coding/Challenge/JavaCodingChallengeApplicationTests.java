@@ -1,10 +1,10 @@
-package com.coding.Java.Coding.Challenge2;
+package com.coding.Java.Coding.Challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaCodingChallenge2ApplicationTests {
+class JavaCodingChallengeApplicationTests {
 
 	@Test
 	void contextLoads() {

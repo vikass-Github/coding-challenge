@@ -1,13 +1,13 @@
-package com.coding.Java.Coding.Challenge2;
+package com.coding.Java.Coding.Challenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaCodingChallenge2Application {
+public class JavaCodingChallengeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaCodingChallenge2Application.class, args);
+		SpringApplication.run(JavaCodingChallengeApplication.class, args);
 	}
 
 }
